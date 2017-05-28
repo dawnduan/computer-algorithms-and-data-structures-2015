@@ -1,0 +1,1 @@
+Elements in the priority queue are: 0  1  2  5  6  8  9  21  42 
